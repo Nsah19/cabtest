@@ -1,0 +1,14 @@
+It a Git Hub class at CAB.
+
+Nickey@Nickey MINGW64 ~/Desktop/cab/cabversion
+$ git config --global user.name "Nsah19"
+
+Nickey@Nickey MINGW64 ~/Desktop/cab/cabversion
+$ git config --global user.email niki.sah@gmail.com
+
+Nickey@Nickey MINGW64 ~/Desktop/cab/cabversion
+$ git init
+
+git status //for files status
+
+git add "filename"  // to add file
